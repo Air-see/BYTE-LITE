@@ -13,7 +13,7 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
 ///////////////////
 
 
-module.exports = { session: process.env.SESSION_ID || 'Byte;;;',
+module.exports = { session: process.env.SESSION_ID || 'A-S-W-I-N-S-P-A-R-K-Y:6b67e4e2fae703012235f8b255c9b1a4;;;',
 
 ////////////////////////////////
 
@@ -27,7 +27,7 @@ module.exports = { session: process.env.SESSION_ID || 'Byte;;;',
     A_REACT : process.env.AUTO_REACTION || 'on',
     CHATBOT: process.env.CHAT_BOT || "off",
     OWNER_NAME: process.env.OWNER_NAME || "TALKDROVE",
-    NUMERO_OWNER : process.env.OWNER_NUMBER || "923072380380",              
+    NUMERO_OWNER : process.env.OWNER_NUMBER || "+18494409195",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
     BOT : process.env.BOT_NAME || 'BYTE-MD',
